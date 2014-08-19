@@ -1,4 +1,6 @@
 node-basics
 ===========
 
-Basic node exercises, asynchronous i/o, http #learning 
+Basic node solutions and exercises for (http from http://nodeschool.io/) which include the following tasks: asynchronous, i/o
+
+
